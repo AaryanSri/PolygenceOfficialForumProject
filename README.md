@@ -29,7 +29,8 @@ other packages like Flask, things which normally would have to be manually insta
 
 Download Anaconda Individual Edition (https://www.anaconda.com/products/individual#windows).
 
-Download my code using the download code button on the github page.
+Download my code using the download code button on the github page. Extract to whichever folder
+you would like.
 
 If the github download is not working, here is a backup google drive. However,
 I recommend using github since it is more organized and easier to follow.
